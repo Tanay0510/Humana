@@ -1,3 +1,3 @@
 # Humana
 
-Humana Analytics Competition 2020
+Humana Analytics Competition (2020)
